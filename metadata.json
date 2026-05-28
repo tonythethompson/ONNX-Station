@@ -1,0 +1,8 @@
+{
+  "name": "Optimum Exporter",
+  "description": "Local-first workbench to configure and orchestrate Hugging Face Optimum ONNX model exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
